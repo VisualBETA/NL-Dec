@@ -1,0 +1,1 @@
+return {"mythicalChest","goldenChest","enchantedChest","magmaChest","legendsChest","eternalChest","saharaChest","thunderChest","ancientChest","midnightShadowChest","groupRewardsCircle","wonderChest","Daily Chest","chaosLegendsChest","goldenZenChest","skystormMastersChest","soulFusionChest","ultraNinjitsuChest","lightKarmaChest","evilKarmaChest"}
