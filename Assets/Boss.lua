@@ -1,0 +1,1 @@
+return {"RobotBoss","EternalBoss","AncientMagmaBoss"}
