@@ -1,0 +1,1 @@
+return {"Blue Crystal","Ultra Shockwave Crystal","Purple Crystal","Enchanted Crystal","Astral Crystal","Golden Crystal","Inferno Crystal","Galaxy Crystal","Frozen Crystal","Eternal Crystal","Storm Crystal","Thunder Crystal","Secret Blades Crystal","Infinity Void Crystal"}
